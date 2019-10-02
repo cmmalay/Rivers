@@ -3,7 +3,6 @@ Dents Run
 Blackwater River 
 spring creek
 Wheeling Creek
-Kanawha River
 Bufalo creek
 Big Sandy Creek
 Big sandy river
@@ -12,5 +11,3 @@ Greenbrier River
 South Branch Potomac River
 Scotts Run
 Paw Paw Creek
-Horseshoe run
-Wheeling creek
